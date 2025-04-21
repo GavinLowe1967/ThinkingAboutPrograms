@@ -1,0 +1,78 @@
+
+                         INSTRUCTIONS
+                         ============
+
+To run programs from this directory, it is necessary to give the full name of
+the relevant object, including its package; for example:
+
+scala thinkingAboutPrograms.factorial.Factorial
+
+
+
+                          CONTENTS
+                          ========
+
+
+See the README file in each subdirectory for more details. 
+
+
+Testing: The testing framework.
+
+Interfaces: Map, Stack ***
+
+01.Chap1: Code from Chapter 1, "First Steps", particularly the factorial program.
+
+02.Chap2: Code from Chapter 2, "Summing a Sequence", the array sum program.
+
+03.Exponentiation: Code from Chapter 3, "Exponentiation: Slow and Fast".
+
+05.ArraySearch: Code from Chapter 5, "Searching in an Array"
+
+06.SquareRoots: Code from Chapter 6, "Example: Integer Square Roots". 
+
+07.Polynomial: Code from Chapter 7, "Calculating the Value of a Polynomial". 
+
+08.Recursion: Code from Chapter 8, "Recursion".
+
+09.BinarySearch: Code from Chapter 9, "Binary Search".
+
+10.SelectionSort: Code from Chapter 10, "Selection Sort". 
+
+11.Quicksort: Code from Chapter 11, "Quicksort".
+
+12.Knapsack: Code from Chapter 12, "Dynamic Programming". 
+
+13.MaxSegSum: Code from Chapter 13, "Example: Maximum Segment Sums".
+
+14.SpellCheck: Code from Chapter 14, "Modularisation and Abstract Datatypes",
+in particular, the spell checking program.
+
+15.Account: Implementations of the Account, mostly from Chaptre 15, "A Club
+Account Application", but also other implementations from Chapters 18 and 19.
+
+16.WordPaths: Code from Chapter 16, "Programming with Abstract Datatypes", in
+particular the word paths program.
+
+17.CountdownNumbers: Code from Chapter 17, "Countdown: The Numbers Game". 
+
+18.ImplementingADTs: Code from Chapter 18, "Implementing Abstract Datatypes".
+
+19.LinkedLists: Code from Chapter 19, "Linked Lists".  
+
+20.BitMaps: Code from Chapter 20, "Bit Maps".
+
+21.Hashtables: Code from Chapter 21, "Hash Tables". 
+
+22.BinarySearchTrees: Code from Chapter 22, "Binary Search Trees". 
+
+23.FindingShortestPaths: Code from Chapter 23, "Finding Shortest Paths".  The
+code uses the implementation of a priority queue from Chapter 24.
+
+24.BinaryHeaps: Code from Chapter 24, "Binary Heaps and Priority Queues".
+
+25.CountdownLetters: Code from Chapter 25, "Countdown: The Letters Game". 
+
+
+knuth_words
+
+names.txt

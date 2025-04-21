@@ -1,0 +1,13 @@
+This directory collects together various implementations of the Account trait. 
+
+Account.scala: the Account trait (Section 15.1).
+
+ClubAccount.scala: the main account program (Section 15.2).
+
+MapAccount.scala: the implementation using a s.c.m.HashMap (Section 15.3).
+
+names.txt: names used by the testing program. 
+
+Note: ClubAccount.scala depends upon files in 18.ImplementingADTs and
+19.LinkedLists.
+

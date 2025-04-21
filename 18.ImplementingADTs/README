@@ -1,0 +1,5 @@
+AccountTest.scala: testing program (Section 18.4).
+
+ArraysAccount.scala: implementation using a pair of arrays (Chapter 18).
+
+Note: these files depend on files in 15.Account and 19.LinkedLists

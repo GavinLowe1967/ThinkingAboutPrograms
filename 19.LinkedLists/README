@@ -1,0 +1,22 @@
+LinkedListAccount.scala: The implementation of Account using a linked list,
+from Sections 19.1 and 19.2.  (Package thinkingAboutPrograms.account.)
+
+LinkedListHeaderAccount.scala: The implementation of Account using a linked
+list with a dummy header, from Section 19.3.  (Package
+thinkingAboutPrograms.account.)
+
+Map.scala: The interface of a map.
+
+LinkedListHeaderMap.scala: The implementation of a Map using a linked list,
+from Section 19.4.  (Package thinkingAboutPrograms.map.)
+
+MapTest.scala: A test for the LinkedListHeaderMap.  (Package
+thinkingAboutPrograms.map.)
+
+Stack.scala: The interface for a stack. 
+
+LinkedListStack.scala: The implementation of a stack using a linked list, from
+Section 19.5.  (Package thinkingAboutPrograms.stack.)
+
+The Account trait is in directory 15.Account.  The Map and Stack traits are in
+directory Interfaces.

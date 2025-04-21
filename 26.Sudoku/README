@@ -1,0 +1,50 @@
+This code distribution packages the code slightly differently from the book.
+It aims to illustrate the different variants, without having too much repeated
+code.  This means common code is often factored into a trait or abstract
+class.
+
+Partial.scala: 
+
+  * The Partial trait from Section 26.2;
+
+  * The BasicPartial trait, implementing some operations common to
+  SimplePartial and AdvancedPartialT;
+
+  * The class SimplePartial from Section 26.4.
+
+Sudoku.scala: The implementation from Section 26.3, but including the code
+from Section 26.6 to reduce the amount of cloning.  Various command line
+arguments select the different versions as follows:
+
+  * --adv Use AdvancedPartial from Section 26.5;
+
+  * --pQueue Use PQueueAdvancedPartial from Section 26.6;
+
+  * --avoidCloning Use the technique to reduce the amount of cloning;
+
+  * --locMap Use LocMapPriorityQueue from Exercise 26.1. 
+
+LegalBitMap.scala: The representation of which plays are legal, from Section
+26.5.
+
+PriorityQueue.scala:
+
+  * Trait PriorityQueue giving the interface of the priority queue, and most
+  of the implementation from Section 26.6;
+
+  * HashMapPriorityQueue giving the remainder of the implementation from
+  Section 26.6;
+
+  * Class LocMapPriorityQueue corresponding to Exercise 26.1.
+
+AdvancedPartial.scala: 
+
+  * Abstract class AdvancedPartialT, containing common code between the
+  following implementations.
+
+  * AdvancedPartial, the implementation using a LegalBitMap from Section 26.5.
+
+  * PQueueAdvancedPartial, the implementation from Section 26.6 using a
+  priority queue.
+
+test.sud: An input file corresponding to the example in the text.

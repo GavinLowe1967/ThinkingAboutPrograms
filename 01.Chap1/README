@@ -1,0 +1,4 @@
+Factorial.scala: The factorial program.
+
+FactorialTest.scala: A testing program for Factorial.scala.  This uses the
+MyTest framework introduced in Chapter 2.

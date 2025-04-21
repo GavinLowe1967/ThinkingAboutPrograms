@@ -1,0 +1,9 @@
+SpellCheck0.scala: The simple implementation from Section 14.3.
+
+Dictionary.scala: The implementation of the dictionary.
+
+SpellCheck.scala: The improved implementation.  Used the dictionary from the
+package thinkingAboutPrograms.dictionary.
+
+knuth_words: A file containing a list of words.  This is read by the above
+classes.

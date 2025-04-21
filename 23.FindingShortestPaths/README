@@ -1,0 +1,15 @@
+Graph.scala: definition of a Graph as in the introduction of Chapter 22;
+various example Graphs.
+
+Dijkstra.scala: initial implementation of Dijkstra's Algorithm, as in Section
+23.2 (class Dijkstra1); improved implementation using a PriorityQueue, as in
+Section 23.3 (class Dijkstra).
+
+PriorityQueue.scala: definition of a priority queue. 
+
+AStar.scala: Implementation of the A* Algorithm. 
+
+Test.scala: A simple test program. 
+
+HeapPriorityQueue.scala: Implementations of a prriority queue using a
+heap. *** Belongs in Chap 24. ***

@@ -1,0 +1,7 @@
+ArraySearch.scala: Functions from Section 5.1, searching in an array.
+
+ArrayEquality.scala: Function from Section 5.2, comparing two arrays for value
+equality.
+
+SubArray.scala: Function from Section 5.3 to test whether one array is
+included in another.

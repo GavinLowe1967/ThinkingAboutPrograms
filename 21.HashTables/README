@@ -1,0 +1,9 @@
+HashMap.scala: a hash map using chaining, as in Sections 21.1-21.3.
+
+OpenHashMap0.scala: hash map using open addressing, without deletion, as in
+Section 21.4.
+
+OpenHashMap.scala: hash map using open addressing with deletion, as in Section
+21.5.
+
+Test.scala: a testing program for the hash maps.

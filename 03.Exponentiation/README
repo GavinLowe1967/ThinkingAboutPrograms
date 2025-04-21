@@ -1,0 +1,5 @@
+SlowExp.scala: the slow exponentiation program from Section 3.1.
+
+FastExp.scala: the fast exponentiation program from Section 3.3.
+
+ExpTest.scala: the testing program from Section 3.4.

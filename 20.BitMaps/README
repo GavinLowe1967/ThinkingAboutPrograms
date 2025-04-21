@@ -1,0 +1,7 @@
+Set.scala: the Set interface.
+
+BitMapSet0.scala: the simple implementation from Section 20.1 (including the
+additional operations from Section 20.3).
+
+BitMapSet.scala: the compact implementation from Section 20.2 (including the
+additional operations from Section 20.3).

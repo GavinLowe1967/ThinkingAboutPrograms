@@ -1,0 +1,7 @@
+BinaryTreeMapRec.scala: a map implemented using a binary tree, with operations
+implemented recursively.
+
+BinaryTreeMap.scala: a map implemented using a binary tree, with operations
+implemented using a loop.
+
+TreeMapTest.scala: some simple tests on the implementations. 

@@ -1,0 +1,5 @@
+ArraySum.scala: the array sum program.
+
+ArraySumTest.scala: tests on ArraySum.
+
+TestTest.scala: an object testing and demonstrating the MyTest framework. 

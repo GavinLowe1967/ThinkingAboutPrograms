@@ -1,0 +1,3 @@
+Trie.scala: the implementation of a Trie from Section 25.2.
+
+WordGame.scala: the implementation of the letters game from Section 25.3.  
