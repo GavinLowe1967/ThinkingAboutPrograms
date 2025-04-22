@@ -1,4 +1,3 @@
-
                          INSTRUCTIONS
                          ============
 
@@ -7,18 +6,15 @@ the relevant object, including its package; for example:
 
 scala thinkingAboutPrograms.factorial.Factorial
 
-
-
                           CONTENTS
                           ========
 
-
-See the README file in each subdirectory for more details. 
-
+The code is organised into subdirectories, following the structure of the
+book, as described below.  See the README file in each subdirectory for more
+details.  Each subdirectory includes a Makefile (see
+https://www.gnu.org/software/make/).
 
 Testing: The testing framework.
-
-Interfaces: Map, Stack ***
 
 01.Chap1: Code from Chapter 1, "First Steps", particularly the factorial program.
 
@@ -72,7 +68,9 @@ code uses the implementation of a priority queue from Chapter 24.
 
 25.CountdownLetters: Code from Chapter 25, "Countdown: The Letters Game". 
 
+Makefile: a make file for the complete distribution.  Typing `make' on the
+command line should make the entire distribution.
 
-knuth_words
+knuth_words: a dictionary file used in various word-based programs.
 
-names.txt
+names.txt: a list of names, used in the AccountTest program.

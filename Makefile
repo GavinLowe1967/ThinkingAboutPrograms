@@ -29,19 +29,4 @@ all:
 	cd 26.Sudoku; make
 
 clean:	
-	rm $(ROOT)/*/*.class; \
-	# rm $(ROOT)/util/*.class; rm $(ROOT)/interfaces/*.class; \
-	# rm $(ROOT)/factorial/*.class; \
-	# rm $(ROOT)/arraySum/*.class; rm $(ROOT)/exponentiation/*.class;  \
-	# rm $(ROOT)/arraySearch/*.class; rm $(ROOT)/squareRoots/*.class; \
-	# rm $(ROOT)/polynomial/*.class; rm $(ROOT)/recursion/*.class; \
-	# rm $(ROOT)/binarySearch/*.class; rm $(ROOT)/selectionSort/*.class; \
-	# rm $(ROOT)/quicksort/*.class; rm $(ROOT)/dynamicProgramming/*.class; \
-	# rm $(ROOT)/maxSegSum/*.class; rm $(ROOT)/dictionary/*.class; \
-	# rm $(ROOT)/spellCheck/*.class; rm $(ROOT)/account/*.class; \
-	# rm $(ROOT)/wordPaths/*.class; rm $(ROOT)/countdown/*.class; \
-	# rm $(ROOT)/bitMaps/*.class; rm $(ROOT)/hashMap/*.class; \
-	# rm $(ROOT)/map/*.class; rm $(ROOT)/stack/*.class; \
-	# rm $(ROOT)/binaryTrees/*.class; rm $(ROOT)/heaps/*.class; \
-	# rm $(ROOT)/graphSearch/*.class; rm $(ROOT)/sudoku/*.class; \
-	fsc -shutdown
+	rm $(ROOT)/*/*.class; fsc -shutdown
